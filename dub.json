@@ -4,8 +4,11 @@
 	],
 	"copyright": "Copryright ® 2023, D5n9sMatrix",
 	"dependencies": {
+		"adr-terminalemulator": "~>0.1.4",
+		"dtext": "~>1.0.1",
 		"geometry": ">=1.0.0-beta.1 <1.1.0-0",
-		"matrix-client": "~>0.1.0"
+		"matrix-client": "~>0.1.0",
+		"readline": "~>0.3.0"
 	},
 	"description": "matrix pill",
 	"license": "MIT",

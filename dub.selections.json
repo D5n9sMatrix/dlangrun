@@ -1,12 +1,19 @@
 {
 	"fileVersion": 1,
 	"versions": {
+		"adr-terminalemulator": "0.1.4",
+		"arsd-official": "10.9.9",
+		"cst": "1.0.4",
 		"diet-ng": "1.8.1",
+		"dtext": "1.0.1",
+		"geometry": "1.0.0-beta.1",
 		"libasync": "0.8.6",
 		"libevent": "2.0.2+2.0.16",
+		"linear": "1.0.0-beta.6",
 		"matrix-client": "0.1.0",
 		"memutils": "1.0.9",
 		"openssl": "1.1.6+1.0.1g",
+		"readline": "0.3.0",
 		"requests": "0.4.2",
 		"vibe-d": "0.7.33"
 	}
