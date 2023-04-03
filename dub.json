@@ -4,6 +4,7 @@
 	],
 	"copyright": "Copryright ® 2023, D5n9sMatrix",
 	"dependencies": {
+		"geometry": ">=1.0.0-beta.1 <1.1.0-0",
 		"matrix-client": "~>0.1.0"
 	},
 	"description": "matrix pill",
