@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"D5n9sMatrix"
+	],
+	"copyright": "Copyright ® 2023, D5n9sMatrix",
+	"description": "editor dlang matrix pill client",
+	"license": "MIT",
+	"name": "dtext"
+}

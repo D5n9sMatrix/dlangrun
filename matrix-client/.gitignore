@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/matrix-client
+matrix-client.so
+matrix-client.dylib
+matrix-client.dll
+matrix-client.a
+matrix-client.lib
+matrix-client-test-*
+*.exe
+*.o
+*.obj
+*.lst

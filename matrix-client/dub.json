@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"D5n9sMatrix"
+	],
+	"copyright": "Copyright ® 2023, D5n9sMatrix",
+	"description": "terminal matrix client",
+	"license": "MIT",
+	"name": "matrix-client"
+}
