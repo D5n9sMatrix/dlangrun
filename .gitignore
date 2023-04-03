@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dlangrun
+dlangrun.so
+dlangrun.dylib
+dlangrun.dll
+dlangrun.a
+dlangrun.lib
+dlangrun-test-*
+*.exe
+*.o
+*.obj
+*.lst
