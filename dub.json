@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"D5n9sMatrix"
+	],
+	"copyright": "Copryright ® 2023, D5n9sMatrix",
+	"dependencies": {
+		"matrix-client": "~>0.1.0"
+	},
+	"description": "matrix pill",
+	"license": "MIT",
+	"name": "dlangrun"
+}
